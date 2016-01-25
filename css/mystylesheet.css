@@ -1,0 +1,10 @@
+.top-buffer {
+margin-top:20px; 
+}
+
+.col-center-block {
+    float: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
